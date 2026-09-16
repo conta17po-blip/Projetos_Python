@@ -21,4 +21,4 @@ Os exercícios estão organizados para acompanhar minha jornada de aprendizado, 
 
 ---
 **Linguagem:** Python  
-**Status:** Em desenvolvimento 🚀
+
